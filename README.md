@@ -25,5 +25,7 @@ The model is made interactive, allowing users to predict calories burned based o
 Age,Weight,Height,Gender
 
 Activity Level
-The inputs are processed and scaled similarly to the training data, and the model predicts the estimated calories burned.Conclusion
+The inputs are processed and scaled similarly to the training data, and the model predicts the estimated calories burned.
+
+Conclusion
 This project demonstrates a practical application of machine learning in personal health analytics, providing a method to estimate caloric expenditure based on easily available personal attributes.
